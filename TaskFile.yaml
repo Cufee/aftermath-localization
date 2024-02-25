@@ -1,0 +1,17 @@
+version: 3
+
+dotenv: ['.env']
+
+tasks:
+  sync:
+    desc: 
+    cmds:
+      - accent sync
+  sync-translations:
+    desc: 
+    cmds:
+      - accent sync --add-translations
+  export:
+    desc: 
+    cmds:
+      - accent export
