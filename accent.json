@@ -9,6 +9,12 @@
       "format": "json",
       "source": "aftermath-bot/main.json",
       "target": "aftermath-bot/%slug%.json"
+    },
+    {
+      "namePattern": "parentDirectory",
+      "format": "json",
+      "source": "aftermath-core/main.json",
+      "target": "aftermath-core/%slug%.json"
     }
   ]
 }
