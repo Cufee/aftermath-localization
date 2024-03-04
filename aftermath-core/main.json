@@ -23,6 +23,7 @@
   "label_defeat": "Defeat",
   "label_battle_type_unknown": "Unknown",
   "label_battle_type_regular": "Encounter",
+  "label_battle_type_supremacy": "Supremacy",
   "label_game_mode_unknown": "Unknown",
   "label_game_mode_regular": "Regular Battle",
   "label_game_mode_training": "Training Room",
