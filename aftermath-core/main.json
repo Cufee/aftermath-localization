@@ -6,6 +6,7 @@
   "label_wn8": "WN8",
   "label_frags": "Kills",
   "label_accuracy": "Accuracy",
+  "label_ranked_rating": "Rating",
   "label_overview_unrated": "Regular Battles",
   "label_overview_rating": "Rating Battles",
   "label_damage_dealt": "Damage",
