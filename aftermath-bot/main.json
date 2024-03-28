@@ -70,6 +70,7 @@
   "errors_generic_current_user_has_no_connection": "Looks like we haven't got your Blitz nickname yet. Give the `/link` command a shot.",
   "errors_generic_nickname_and_server_required": "I need both the name and server to find your account. You can also use the `/link` command to setup a default account.",
   "errors_generic_wargaming_outage": "It looks like Wargaming are having some temporary issues. Please try again in a few seconds.",
+  "errors_generic_aftermath_outage": "Aftermath is currently undergoing maintenance and is temporarily unavailable. Please try again in a few moments.",
   "errors_background_not_subscribed": "This feature of Aftermath is only available for users with an active subscription.\nYou can subscribe by using the `/subscribe` command or pick a background using `/fancy` instead.",
   "errors_background_invalid_attachment": "The file attached is not valid.",
   "errors_background_missing_image": "You need to attach an image or provide a link in order to upload a custom background.",
