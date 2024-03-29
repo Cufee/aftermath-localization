@@ -49,7 +49,7 @@
   "commands_widget_option_flavor": "Widget Appearance",
   "commands_widget_flavor_legacy": "Detailed, includes career",
   "commands_widget_flavor_ticker": "Simplified, session only",
-  "commands_widget_message_fmt": "### Here is your widget link!\n%s\n\nAdd it as a Browser Source in OBS. Place the following code into the Custom CSS section\n```css\n:root { background-color: rgba(0, 0, 0, 0); white-space: nowrap; }\n```You can also make the widget fit your UI with\n```css\n.widget { width: 100%%; }```",
+  "commands_widget_message_fmt": "### Here is your widget link!\n%s\n\nAdd it as a Browser Source in OBS. Place the following code into the Custom CSS section\n```css\n:root { background-color: rgba(0, 0, 0, 0); white-space: nowrap; }\n```",
   "buttons_join_primary_guild": "Join Aftermath Official",
   "buttons_add_aftermath_to_your_server": "Add Aftermath to your server",
   "buttons_end_live_session": "End Session",
