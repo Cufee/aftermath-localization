@@ -40,7 +40,7 @@
   "commands_session_refresh_expired": "This refresh button has expired. Please use the `/session` command instead.",
   "commands_stats_description": "View your career stats",
   "commands_subscribe_description": "Get more information about Aftermath subscriptions",
-  "commands_subscribe_action_button": "Subscribe on Aftermath Official",
+  "commands_subscribe_action_button": "View Subscriptions",
   "commands_subscribe_message": "## You can support Aftermath and unlock some awesome features using Discord Server Subscriptions!",
   "commands_verify_description": "Verify your Wargaming account to unlock more features!",
   "commands_verify_action_button": "Verify on Wargaming.net",
